@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">calendar</string>
+    <string name="time0">12 am</string>
+    <string name="time1">1 am</string>
+    <string name="time2">2 am</string>
+    <string name="time3">3 am</string>
+    <string name="time4">4 am</string>
+    <string name="time5">5 am</string>
+    <string name="time6">6 am</string>
+    <string name="time7">7 am</string>
+    <string name="time8">8 am</string>
+    <string name="time9">9 am</string>
+    <string name="time10">10 am</string>
+    <string name="time11">11 am</string>
+    <string name="time12">12 pm</string>
+    <string name="time13">1 pm</string>
+    <string name="time14">2 pm</string>
+    <string name="time15">3 pm</string>
+    <string name="time16">4 pm</string>
+    <string name="time17">5 pm</string>
+    <string name="time18">6 pm</string>
+    <string name="time19">7 pm</string>
+    <string name="time20">8 pm</string>
+    <string name="time21">9 pm</string>
+    <string name="time22">10 pm</string>
+    <string name="time23">11 pm</string>
+    <string name="time24">12 am</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
